@@ -1,0 +1,26 @@
+{
+  "name": "beckman-cafe-signagelive-widget-vue",
+  "version": "1.0.0",
+  "description": "A Vue.js version of the Beckman Cafe Signagelive Widget",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smidds/beckman-cafe-signagelive-widget-vue.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "Beckman",
+    "UIUC",
+    "Signagelive",
+    "Widget"
+  ],
+  "author": "Isaac Smith",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Smidds/beckman-cafe-signagelive-widget-vue/issues"
+  },
+  "homepage": "https://github.com/Smidds/beckman-cafe-signagelive-widget-vue#readme"
+}
